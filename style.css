@@ -1,0 +1,19 @@
+.card{
+	box-shadow: 5px 5px 5px 5px #888;
+}
+h5{
+	display: flex;
+}
+.card-body{
+	display: flex;
+    overflow: hidden;
+    margin-top: 10em ;
+    align-items: center;
+	justify-content: space-between;
+}
+.view{
+	padding: 1em;
+}
+.buy{
+	padding: 1em;
+}
